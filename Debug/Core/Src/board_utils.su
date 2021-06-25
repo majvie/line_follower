@@ -1,0 +1,14 @@
+board_utils.c:36:16:getI2CAddress	16	static
+board_utils.c:41:12:fram_write_private	48	static
+board_utils.c:65:12:fram_read_private	40	static
+board_utils.c:73:12:fram_read_private_noblock	40	static
+board_utils.c:89:6:MX_FRAM_Init	8	static
+board_utils.c:94:6:fram_init	8	static
+board_utils.c:150:5:fram_busy	4	static
+board_utils.c:155:5:fram_write	24	static
+board_utils.c:162:5:fram_read	24	static
+board_utils.c:169:5:fram_read_noblock	24	static
+board_utils.c:180:11:fram_getSystemStatus	4	static
+board_utils.c:186:6:system_init	4	static
+board_utils.c:208:5:getSystemID	24	static
+board_utils.c:217:9:getResetFlag	4	static
